@@ -1,6 +1,5 @@
 #include <iostream>
 #include "tree.cpp"
-
 int main()
 {
     SearchingTree<int, std::string> tree(1, "bebra");
